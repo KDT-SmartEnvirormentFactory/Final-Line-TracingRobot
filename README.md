@@ -5,6 +5,7 @@ Arduino R3
 Tb6612FNG
 TCRT5000
 DC 기어드 모터
+======================================
 =======================================
 <img width="637" height="699" alt="image" src="https://github.com/user-attachments/assets/62ea2072-8813-434f-86ff-bff4a0d00b03" />
 UART 통신 가능
